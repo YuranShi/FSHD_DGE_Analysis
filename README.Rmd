@@ -1,0 +1,11 @@
+# Differential Gene Expression Analysis
+
+Performs differential gene expression analysis on RNA-seq and oligo studies using package DESeq2 and limma.
+
+### Scripts
+
+-   `oligo.R`: Get the count and p-value of differential expressed genes in oligo studies.
+
+-   `RNA_seq_dge.R`: Get the count and p-value of differential expressed genes in RNA-seq studies.
+
+### 
